@@ -21,4 +21,4 @@ Welcome to my GitHub profile! I'm a passionate Flutter software engineer dedicat
 - 📫 You can reach me via [email](mailto:aliasad71734@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ali-asad-069037138/). I'm open to networking and collaborations!
 - 🌍 Fun fact: I also have a travel YouTube channel! [Check it out here](https://www.youtube.com/@Roaming_Routes-dh1wo) 🎥
 ## Languages and Tools
-![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) ![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![Django](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg) ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
+![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) ![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
